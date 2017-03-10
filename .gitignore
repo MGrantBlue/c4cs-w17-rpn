@@ -1,4 +1,6 @@
 *.swp
+*.swo
+*.swn
 __pycache__
 test_rpn.pyc
 rpn.pyc
