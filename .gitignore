@@ -1,0 +1,5 @@
+*.swp
+__pycache__
+test_rpn.pyc
+rpn.pyc
+.gitignore.swo
